@@ -24,11 +24,11 @@ body {
     font-size: 16px;
     line-height: 1.5;
 }
-.nav-logo .nav-link {
+.nav .nav-link {
     color: #2e2f42;
 }
-.nav-logo .nav-link: hover,
-.nav-logo .nav-link: focus {
+.nav .nav-link hover,
+.nav .nav-link focus {
     color: #404bbf;
 }
 .address {
@@ -38,8 +38,8 @@ body {
 .address .link-add {
     color: #434455;
 }
-.address .link-add: hover,
-.address .link-add: focus {
+.address .link-add hover,
+.address .link-add focus {
     color: #404bbf;
 }
 .main-page {
