@@ -24,22 +24,22 @@ body {
     font-size: 16px;
     line-height: 1.5;
 }
-.nav>.nav-link {
+.subnav>.nav-link {
     color: #2e2f42;
 }
-.nav>.nav-link: hover,
-.nav>.nav-link: focus {
+.subnav>.nav-link: hover,
+.subnav>.nav-link: focus {
     color: #404bbf;
 }
 .address {
     font-style: normal;
-}
-.address>.link-add {
-    color: #434455;
     line-height: 1.5;
 }
-.address>.link-add: hover,
-.address>.link-add: focus {
+.subaddress>.link-add {
+    color: #434455;
+}
+.subaddress>.link-add: hover,
+.subaddress>.link-add: focus {
     color: #404bbf;
 }
 .main-page {
