@@ -103,6 +103,7 @@ background-color: #2e2f42;
 .team-page .team-name {
     font-weight: 500;
     font-size: 20px;
+    letter-spacing: 0.02em;
     line-height: 1.2;
     text-align: center;
     color: #2e2f42;
