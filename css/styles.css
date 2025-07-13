@@ -27,8 +27,8 @@ body {
 .nav .nav-link {
     color: #2e2f42;
 }
-.nav .nav-link hover,
-.nav .nav-link focus {
+.nav .nav-link:hover,
+.nav .nav-link:focus {
     color: #404bbf;
 }
 .address {
@@ -38,8 +38,8 @@ body {
 .address .link-add {
     color: #434455;
 }
-.address .link-add hover,
-.address .link-add focus {
+.address .link-add:hover,
+.address .link-add:focus {
     color: #404bbf;
 }
 .main-page {
@@ -63,8 +63,8 @@ background-color: #2e2f42;
     text-align: center;
     cursor: pointer;
 }
-.main-page .button: hover,
-.main-page .button: focus {
+.main-page .button:hover,
+.main-page .button:focus {
     background-color: #404bbf;
 }
 .post {
