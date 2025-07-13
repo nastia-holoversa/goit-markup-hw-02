@@ -19,22 +19,22 @@ body {
 .nav-logo>.accent {
     color: #2e2f42;
 }
-.nav>.nav-link {
-    color: #2e2f42;
+.nav>.subnav {
     font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #2e2f42;
 }
-.nav .nav-link: hover,
-.nav .nav-link: focus {
-color: #404bbf;
+.nav>.nav-link: hover,
+.nav>.nav-link: focus {
+    color: #404bbf;
 }
-.address {
+.address>.subaddress {
     font-style: normal;
-}
-.link-add {
     color: #434455;
 }
-.address .link-add: hover,
-.address .link-add: focus {
+.address>.link-add: hover,
+.address>.link-add: focus {
     color: #404bbf;
 }
 .main-page {
